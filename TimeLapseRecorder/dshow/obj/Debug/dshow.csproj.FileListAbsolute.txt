@@ -1,0 +1,5 @@
+C:\Users\hazael.mojica.garcia\Desktop\TimeLapseRecorder\dshow\bin\Debug\dshow.dll
+C:\Users\hazael.mojica.garcia\Desktop\TimeLapseRecorder\dshow\bin\Debug\dshow.pdb
+C:\Users\hazael.mojica.garcia\Desktop\TimeLapseRecorder\dshow\obj\Debug\dshow.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica.garcia\Desktop\TimeLapseRecorder\dshow\obj\Debug\dshow.dll
+C:\Users\hazael.mojica.garcia\Desktop\TimeLapseRecorder\dshow\obj\Debug\dshow.pdb

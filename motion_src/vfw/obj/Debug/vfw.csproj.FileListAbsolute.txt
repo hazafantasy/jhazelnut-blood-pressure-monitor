@@ -1,0 +1,5 @@
+C:\Users\hazael.mojica.garcia\Desktop\motion_src\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\hazael.mojica.garcia\Desktop\motion_src\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\Users\hazael.mojica.garcia\Desktop\motion_src\vfw\obj\Debug\vfw.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica.garcia\Desktop\motion_src\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\Users\hazael.mojica.garcia\Desktop\motion_src\vfw\obj\Debug\Tiger.Video.VFW.pdb
